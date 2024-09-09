@@ -1,3 +1,4 @@
+
 Purpose: The POST method is used to send data to a server to create or update a resource. When a client sends a POST request, it often includes data in the body of the request.
 Characteristics:
 Data sent with a POST request is included in the body of the request, not in the URL.
