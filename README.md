@@ -1,5 +1,5 @@
 # POST-Method
-The POST method is used in web development to send data from the client (frontend) to the server (backend) for storage or processing. In a full-stack application, this typically involves a user filling out a form or providing input, which is then transmitted via a POST request.
+The POST method is used in web development to send data from the client (frontend) to the server (backend) for storage or processing. In a full-stack application, this typically involves a user filling out a form or providing input, which is then transmitted via a POST request. 
 
 How it works:
 
